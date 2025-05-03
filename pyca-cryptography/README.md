@@ -1,6 +1,6 @@
 > [!NOTE]
 > I am not affiliated with PyCA or the `cryptography` project. (And they did not
-> ask me to undertake this project, I did it of my own accord.)
+> ask me to undertake this project, I did it of my own initiative.)
 
 # Towards reproducible wheels for PyCA's `cryptography`
 
